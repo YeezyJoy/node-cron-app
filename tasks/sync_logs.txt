@@ -1,0 +1,108 @@
+Tick cada 30 secs, Hora: 1
+Tick cada 30 secs, Hora: 2
+Tick cada 30 secs, Hora: 3
+Tick cada 30 secs, Hora: 4
+Tick cada 30 secs, Hora: 5
+Tick cada 30 secs, Hora: 6
+Tick cada 30 secs, Hora: 7
+Tick cada 30 secs, Hora: 8
+Tick cada 30 secs, Hora: 9
+Tick cada 30 secs, Hora: 10
+Tick cada 30 secs, Hora: 11
+Tick cada 30 secs, Hora: 12
+Tick cada 30 secs, Hora: 13
+Tick cada 30 secs, Hora: 14
+Tick cada 30 secs, Hora: 15
+Tick cada 30 secs, Hora: 16
+Tick cada 30 secs, Hora: 17
+Tick cada 30 secs, Hora: 18
+Tick cada 30 secs, Hora: 19
+Tick cada 30 secs, Hora: 20
+Tick cada 30 secs, Hora: 21
+Tick cada 30 secs, Hora: 22
+Tick cada 30 secs, Hora: 23
+Tick cada 30 secs, Hora: 24
+Tick cada 30 secs, Hora: 25
+Tick cada 30 secs, Hora: 26
+Tick cada 30 secs, Hora: 27
+Tick cada 30 secs, Hora: 28
+Tick cada 30 secs, Hora: 29
+Tick cada 30 secs, Hora: 30
+Tick cada 30 secs, Hora: 31
+Tick cada 30 secs, Hora: 32
+Tick cada 30 secs, Hora: 33
+Tick cada 30 secs, Hora: 34
+Tick cada 30 secs, Hora: 35
+Tick cada 30 secs, Hora: 36
+Tick cada 30 secs, Hora: 37
+Tick cada 30 secs, Hora: 38
+Tick cada 30 secs, Hora: 39
+Tick cada 30 secs, Hora: 40
+Tick cada 30 secs, Hora: 41
+Tick cada 30 secs, Hora: 42
+Tick cada 30 secs, Hora: 43
+Tick cada 30 secs, Hora: 44
+Tick cada 30 secs, Hora: 45
+segundo test :V
+Tick cada 30 secs, Hora: function toLocaleDateString() { [native code] }
+Tick cada 30 secs, Hora: function toLocaleDateString() { [native code] }
+Tick cada 30 secs, Hora: function toLocaleDateString() { [native code] }
+TERCER TEST
+Tick cada 30 secs, Hora: 25-11-2024
+Tick cada 30 secs, Hora: 25-11-2024
+CUARTO TEST
+Tick cada 30 secs, Hora: 3:20:26 p. m.
+Tick cada 30 secs, Hora: 3:20:26 p. m.
+Tick cada 30 secs, Hora: 3:20:26 p. m.
+Tick cada 30 secs, Hora: 3:20:26 p. m.
+Tick cada 30 secs, Hora: 3:20:26 p. m.
+Tick cada 30 secs, Hora: 3:20:26 p. m.
+Tick cada 30 secs, Hora: 3:21:24 p. m.
+Tick cada 30 secs, Hora: 3:21:24 p. m.
+Tick cada 30 secs, Hora: 3:21:24 p. m.
+Tick cada 30 secs, Hora: 3:21:24 p. m.
+Tick cada 30 secs, Hora: 3:21:24 p. m.
+QUINTO TEST
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+Tick cada 30 secs, Hora: 3:34:26 p. m.
+SEXTO Y ULTIMO (CREO) TEST
+Tick cada 30 secs, Hora: 3:35:49 p. m.
+Tick cada 30 secs, Hora: 3:35:49 p. m.
+Tick cada 30 secs, Hora: 3:36:40 p. m.
+Tick cada 30 secs, Hora: 3:36:45 p. m.
+Tick cada 30 secs, Hora: 3:36:50 p. m.
+Tick cada 30 secs, Hora: 3:36:55 p. m.
+Tick cada 30 secs, Hora: 3:37:05 p. m.
+Tick cada 30 secs, Hora: 3:37:10 p. m.
+Tick cada 30 secs, Hora: 3:37:15 p. m.
+Tick cada 30 secs, Hora: 3:37:20 p. m.
+Tick cada 30 secs, Hora: 3:37:20 p. m.
+Tick cada 30 secs, Hora: 3:38:45 p. m.
+Tick cada 30 secs, Hora: 3:38:50 p. m.
+Tick cada 30 secs, Hora: 3:38:55 p. m.
+Tick cada 30 secs, Hora: 3:42:30 p. m.
+Tick cada 30 secs, Hora: 3:43:30 p. m.
+Tick cada 30 secs, Hora: 3:44:30 p. m.
+Tick cada 30 secs, Hora: 3:47:30 p. m.
+Tick cada 30 secs, Hora: 3:48:30 p. m.
+Tick cada 30 secs, Hora: 3:49:30 p. m.
+Tick cada 30 secs, Hora: 3:50:30 p. m.
+Tick cada 30 secs, Hora: 3:51:30 p. m.
+Tick cada 30 secs, Hora: 3:52:30 p. m.
+Tick cada 30 secs, Hora: 3:53:00 p. m.
+Tick cada 30 secs, Hora: 3:53:30 p. m.
+Tick cada 30 secs, Hora: 3:54:00 p. m.
+Tick cada 30 secs, Hora: 3:54:30 p. m.
+Tick cada 30 secs, Hora: 3:55:00 p. m.
