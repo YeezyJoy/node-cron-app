@@ -36,19 +36,35 @@ git clone https://github.com/tu-usuario/nombre-del-repositorio.git
 
 ## Scripts
 
-Algunos scripts que pueden ser utilizados
+Algunos scripts que pueden ser utilizados en modo desarrollo
 
 | Comando               | Descripcion              |
 | --------------------- | ------------------------ |
 | `npm install`         | Instala las dependencias |
-| `npm run build`       | Crea un build            |
+| `npm run jest`        | Ejecuta las pruebas      |
 | `rm -rf node_modules` | Limpia las dependencias  |
+
+## Cron Jobs
+
+Ejemplos de cron jobs para diferentes intervalos de tiempo:
+
+| Intervalo de Tiempo | Cron Job Expression |
+| ------------------- | ------------------- |
+| Cada 10 segundos    | `*/10 * * * * *`    |
+| Cada 30 segundos    | `*/30 * * * * *`    |
+| Cada 50 segundos    | `*/50 * * * * *`    |
+| Cada 1 minuto       | `*/1 * * * *`       |
+| Cada 3 minutos      | `*/3 * * * *`       |
+| Cada 5 minutos      | `*/5 * * * *`       |
+| Cada 10 minutos     | `*/10 * * * *`      |
 
 ---
 
-<div style="height: 100px;"></div>
+<div style="height: 200px;"></div>
 
 # Docker
+
+> Solo si tiene docker instalado, proceso de despliegue
 
 Para construir la imagen
 

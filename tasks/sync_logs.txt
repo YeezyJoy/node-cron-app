@@ -106,3 +106,5 @@ Tick cada 30 secs, Hora: 3:53:30 p. m.
 Tick cada 30 secs, Hora: 3:54:00 p. m.
 Tick cada 30 secs, Hora: 3:54:30 p. m.
 Tick cada 30 secs, Hora: 3:55:00 p. m.
+Tick cada 30 secs, Hora: 4:12:00 p. m.
+Tick cada 30 secs, Hora: 4:12:30 p. m.
